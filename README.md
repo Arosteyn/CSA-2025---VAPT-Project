@@ -1,5 +1,5 @@
 # Cyber Attack Lifecycle & VAPT Project
-
+This repository is for showcasing my cybersecurity project reports. All content is view-only.
 ## 📌 Project Background
 This repository contains my course project from ICTAK covering the **Cyber Attack Lifecycle** and hands-on **Vulnerability Assessment and Penetration Testing (VAPT)**.  
 The project was executed in multiple phases: Literature Survey, Reconnaissance, Vulnerability Assessment, and Penetration Testing.  
